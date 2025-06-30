@@ -107,7 +107,7 @@ export const SKILLS = [
 
 export const PROJECTS = [
   {
-    title: "Welspun HRMS",
+    title: "Human Resources Management System",
     description:
       "Built a complete hiring platform that automated over 50,000 candidate recruitments. Integrated with MS Teams, Naukri, and LinkedIn. Enabled offer letter generation and multi-level approval workflows.",
     image:
@@ -128,7 +128,7 @@ export const PROJECTS = [
     date: "2023 - Present",
   },
   {
-    title: "Mahindra & Mahindra (M & M) SF/SP Query Management System ",
+    title: "Query Management System",
     description:
       "Engineered a centralized portal that allowed role-based access, secure file uploads using Azure Blob, and dynamic views based on user type. Built backend APIs and UI components independently.",
     image:
@@ -149,7 +149,7 @@ export const PROJECTS = [
     type: "private",
   },
   {
-    title: "Afcons Automation of Invoice Processing",
+    title: "Automation of Invoice Processing",
     description:
       "Orchestrated the development of an Automated Invoice Processing system, employing React.js, C#, Python, and SAP integration, to streamline handling telephone and airline invoices for reimbursement",
     image:
@@ -182,7 +182,7 @@ export const PROJECTS = [
     type: "private",
   },
   {
-    title: "Investor Communication Portal – Aditya Birla Group",
+    title: "Investor Communication Portal",
     description:
       "Built a streamlined platform for ABG to manage investor communications. Enabled creation of investor groups, automated email campaigns to internal business SPOCs and external investors, and ensured secure delivery with role-based access controls.",
     image:
